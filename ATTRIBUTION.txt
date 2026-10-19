@@ -1,1 +1,3 @@
-Pixel dungeon CDN assets.
+﻿画面素材与音效来自《破碎的像素地牢》（Shattered Pixel Dungeon）
+作者 Evan Debenham，许可 CC BY-SA 4.0
+https://github.com/00-Evan/shattered-pixel-dungeon
